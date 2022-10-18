@@ -5,12 +5,24 @@ Steps to follow:
 
 1)Install flask using this command
  
-`pip install flask`
+```
+
+pip install flask
+
+```
 
 2)Install pytube using this command
 
-`pip install pytube`
+```
+
+pip install pytube
+
+```
 
 3)Run the below command to start the project
 
-`py app.py`
+```
+
+py app.py
+
+```
